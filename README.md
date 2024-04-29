@@ -1,2 +1,3 @@
 # css-in-depth-examples
-Code examples from CSS in Depth by Keith Grant
+
+Code examples from <ins>CSS in Depth</ins> by Keith Grant
